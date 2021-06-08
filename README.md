@@ -1,1 +1,1 @@
-# Exercicios do curso de programação da Cubos Academy. Pegasr as funções do desafios do Hackerrank, clonar o repositório e depois commitar todos. A README.md foi alterada, agorinha :D 
+# Exercicios do curso de programação da Cubos Academy. Pegar as funções do desafios do Hackerrank, clonar o repositório e depois commitar todos. A README.md foi alterada, agorinha :D 
